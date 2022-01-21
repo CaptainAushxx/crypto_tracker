@@ -33,7 +33,6 @@ const darkTheme = createTheme({
           <p>Hi! I'm Ayush Mandal</p><p>Here are my blog & social links </p>
         </div>
         <div>
-          <Button variant='text' size='large' href='https://github.com/aayyusssh' startIcon= {<GithubIcon/>}></Button>
           <Button variant='text' size='large' href='https://www.instagram.com/aayyusssh/' startIcon= {<InstagramIcon/>}></Button>
           <Button variant='text' size='large' href='https://marathonfox.com/' startIcon= {<BlogIcon/>}></Button>
         </div>
